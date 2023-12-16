@@ -1,5 +1,51 @@
 #EXTM3U
-#EXTINF:-1,FR: FRANCE INFO HD
-http://117.55.202.141:80/skyott/HafizKhan56584De552324/1215
-#EXTINF:-1,FR: France 24
-http://117.55.202.141:80/skyott/HafizKhan56584De552324/1216
+#EXTINF:-1 tvg-id="" tvg-name="DZ: AL 24 News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/a410f537ad1c19cc89dc1f2331ab10ee.png" group-title="Algeria",DZ: AL 24 News
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296523
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Al Anis TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/68dafe278990a1fcefbe87e786d83b6a.png" group-title="Algeria",DZ: Al Anis TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/267763
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/97171b18be0203c0ebd020a24477f867.png" group-title="Algeria",DZ: Algerie 2
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/33092
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/65e08438ae49635bf594e8084519cbef.png" group-title="Algeria",DZ: Algerie 3
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11236
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/67ba08b1c76a2f1dc364dbd8a0f5e620.png" group-title="Algeria",DZ: Algerie 4
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11235
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/8e8fa0627b3183e58b39b7ff1703894f.png" group-title="Algeria",DZ: Algerie 5
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296526
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/31bca286ba622e0591c2baf9a4163b22.png" group-title="Algeria",DZ: Algerie 6
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296527
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 7 Elmaarifa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/374c26e5fb16f3a5fa06adb0b306b05b.png" group-title="Algeria",DZ: Algerie 7 Elmaarifa
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296528
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie 8 Edhakira" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/c6cd2aa4bd43ab0d79102694b6c85d02.png" group-title="Algeria",DZ: Algerie 8 Edhakira
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296529
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Algerie Oula" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5aeb9446a844fd6c86a6a0f1955a2087.png" group-title="Algeria",DZ: Algerie Oula
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/268942
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Alsalam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/4d08ce315e2f8c91b6818a4c244062de.png" group-title="Algeria",DZ: Alsalam
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296849
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Bahia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/19ef8d5598918434ade78071e24997ec.png" group-title="Algeria",DZ: Bahia TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11869
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Beur TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0d1a85516a09ec7ea5e1cffea73e43b5.png" group-title="Algeria",DZ: Beur TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11340
+#EXTINF:-1 tvg-id="" tvg-name="DZ: CNA (Chaine Nord Africaine)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9bee486e8ddfaa280d0afe7bb52c5110.png" group-title="Algeria",DZ: CNA (Chaine Nord Africaine)
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/284337
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Echorouk News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/963998313232ae3c3c8abaeb488fb0a2.png" group-title="Algeria",DZ: Echorouk News
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11273
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Echorouk TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/4ec45a8149d1a9f05fe7af26a1b30ccb.png" group-title="Algeria",DZ: Echorouk TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/225145
+#EXTINF:-1 tvg-id="" tvg-name="DZ: El Bilad TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/eb4536eb89291f16163a90673cd3e470.png" group-title="Algeria",DZ: El Bilad TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11343
+#EXTINF:-1 tvg-id="" tvg-name="DZ: El Djazair N1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0dee729ad01e3dc11a8850e690b415e1.png" group-title="Algeria",DZ: El Djazair N1
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/202007
+#EXTINF:-1 tvg-id="" tvg-name="DZ: El Fadjer TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ea8c0343ad0f59064c6162c58bffcbbf.png" group-title="Algeria",DZ: El Fadjer TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/145804
+#EXTINF:-1 tvg-id="" tvg-name="DZ: El Hayat TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/06754612a41bb66a8de9de0a432d209a.png" group-title="Algeria",DZ: El Hayat TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/267764
+#EXTINF:-1 tvg-id="" tvg-name="DZ: El Heddaf TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/a29cfee562e22c8111ff341080f4e1b7.png" group-title="Algeria",DZ: El Heddaf TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11175
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Elwatania TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/dca0faa5ec4dc2b591be3e3b8e5c4f4d.png" group-title="Algeria",DZ: Elwatania TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296531
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Ennahar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/415c05c656738b5ee081885655e0a76a.png" group-title="Algeria",DZ: Ennahar TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11294
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Samira TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f2e0f1ab9c262c8ea14044b5c5b7005b.png" group-title="Algeria",DZ: Samira TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/11179
+#EXTINF:-1 tvg-id="" tvg-name="DZ: Zahra TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3743a8b1f05879b4655b0a06dfac2c3a.png" group-title="Algeria",DZ: Zahra TV
+http://aanax.com:8080/LeCyGodF2023/PcxWrDHp28fL9uUs/296533
