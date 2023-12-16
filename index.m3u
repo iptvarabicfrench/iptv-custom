@@ -27,6 +27,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/33100
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/182318
 #EXTINF:-1 group-title="AR",Al Horreya TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/182318
+#EXTINF:-1 group-title="AR",Al Horreya TV (server 3)
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 group-title="AR",Al Kalema TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/299360
 #EXTINF:-1 group-title="AR",Al Kalema TV (server 2)
@@ -47,10 +49,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300582
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/196082
 #EXTINF:-1 group-title="AR",Al Qamar TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/196082
+#EXTINF:-1 group-title="AR",Al Qamar TV (server 3)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 group-title="AR",Alaraby TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/43767
 #EXTINF:-1 group-title="AR",Alaraby TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/43767
+#EXTINF:-1 group-title="AR",Alaraby TV (server 3)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="AR",Alaraby TV 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296844
 #EXTINF:-1 group-title="AR",Alaraby TV 2 (server 2)
@@ -67,6 +73,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/27364
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/284241
 #EXTINF:-1 group-title="AR",Alkarma TV Middle East (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/284241
+#EXTINF:-1 group-title="AR",Alkarma TV Middle East (server 3)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
 #EXTINF:-1 group-title="AR",Alkarma TV North America and Canada (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300643
 #EXTINF:-1 group-title="AR",Alkarma TV North America and Canada (server 2)
@@ -99,6 +107,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/279720
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/196037
 #EXTINF:-1 group-title="AR",AMC (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/196037
+#EXTINF:-1 group-title="AR",AMC (server 3)
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="AR",Apple Plus 8 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/297916
 #EXTINF:-1 group-title="AR",Apple Plus 8 (server 2)
@@ -115,6 +125,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300252
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/166127
 #EXTINF:-1 group-title="AR",AssyriaSat (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/166127
+#EXTINF:-1 group-title="AR",AssyriaSat (server 3)
+http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="AR",Baby TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/64399
 #EXTINF:-1 group-title="AR",Baby TV (server 2)
@@ -123,6 +135,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/64399
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2924
 #EXTINF:-1 group-title="AR",BBC Arabic (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2924
+#EXTINF:-1 group-title="AR",BBC Arabic (server 3)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="AR",BBC Earth (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/198003
 #EXTINF:-1 group-title="AR",BBC Earth (server 2)
@@ -231,6 +245,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/22012
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/197123
 #EXTINF:-1 group-title="AR",Eman Channel (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/197123
+#EXTINF:-1 group-title="AR",Eman Channel (server 3)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 group-title="AR",Fayrouz (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300580
 #EXTINF:-1 group-title="AR",Fayrouz (server 2)
@@ -479,10 +495,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300595
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/299802
 #EXTINF:-1 group-title="AR",Miracle Channel (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/299802
+#EXTINF:-1 group-title="AR",Miracle Channel (server 3)
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 #EXTINF:-1 group-title="AR",Moonbug Kids (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/299968
 #EXTINF:-1 group-title="AR",Moonbug Kids (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/299968
+#EXTINF:-1 group-title="AR",Moonbug Kids (server 3)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="AR",MTA 3 Al Arabia (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/266815
 #EXTINF:-1 group-title="AR",MTA 3 Al Arabia (server 2)
@@ -507,6 +527,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298844
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/77844
 #EXTINF:-1 group-title="AR",National Geographic (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/77844
+#EXTINF:-1 group-title="AR",National Geographic (server 3)
+https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="AR",Netflix 4K (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300301
 #EXTINF:-1 group-title="AR",Netflix 4K (server 2)
@@ -607,6 +629,10 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/283257
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/194214
 #EXTINF:-1 group-title="AR",Nickelodeon (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/194214
+#EXTINF:-1 group-title="AR",Nickelodeon (server 3)
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+#EXTINF:-1 group-title="AR",Nickelodeon (server 4)
+http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="AR",Oggy TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300598
 #EXTINF:-1 group-title="AR",Oggy TV (server 2)
@@ -695,10 +721,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300601
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11369
 #EXTINF:-1 group-title="AR",RT Arabic (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11369
+#EXTINF:-1 group-title="AR",RT Arabic (server 3)
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="AR",Sahel TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11896
 #EXTINF:-1 group-title="AR",Sahel TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11896
+#EXTINF:-1 group-title="AR",Sahel TV (server 3)
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="AR",Sarhan TV Classic (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/283242
 #EXTINF:-1 group-title="AR",Sarhan TV Classic (server 2)
@@ -711,10 +741,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300603
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276135
 #EXTINF:-1 group-title="AR",Sat 7 Arabic (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/276135
+#EXTINF:-1 group-title="AR",Sat 7 Arabic (server 3)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="AR",Sat 7 Kids (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/285984
 #EXTINF:-1 group-title="AR",Sat 7 Kids (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/285984
+#EXTINF:-1 group-title="AR",Sat 7 Kids (server 3)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="AR",Seraj (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/299918
 #EXTINF:-1 group-title="AR",Seraj (server 2)
@@ -827,6 +861,10 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/283266
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3739
 #EXTINF:-1 group-title="AR",Sky News Arabia (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/3739
+#EXTINF:-1 group-title="AR",Sky News Arabia (server 3)
+https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
+#EXTINF:-1 group-title="AR",Sky News Arabia (server 4)
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 group-title="AR",Spongbob (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300609
 #EXTINF:-1 group-title="AR",Spongbob (server 2)
@@ -851,6 +889,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/196022
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300611
 #EXTINF:-1 group-title="AR",Teletubbies (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300611
+#EXTINF:-1 group-title="AR",Teletubbies (server 3)
+https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="AR",The Way TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276042
 #EXTINF:-1 group-title="AR",The Way TV (server 2)
@@ -867,6 +907,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300610
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/281349
 #EXTINF:-1 group-title="AR",TRT Arabi (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/281349
+#EXTINF:-1 group-title="AR",TRT Arabi (server 3)
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="AR",Wassouf (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300602
 #EXTINF:-1 group-title="AR",Wassouf (server 2)
@@ -979,10 +1021,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/23418
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/182
 #EXTINF:-1 group-title="FR",Action (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/182
+#EXTINF:-1 group-title="FR",Action (server 3)
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:-1 group-title="FR",Africa 24 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/276064
 #EXTINF:-1 group-title="FR",Africa 24 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/276064
+#EXTINF:-1 group-title="FR",Africa 24 (server 3)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 group-title="FR",Alsace 20 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/53681
 #EXTINF:-1 group-title="FR",Alsace 20 (server 2)
@@ -1047,6 +1093,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/193
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/163
 #EXTINF:-1 group-title="FR",ARTE (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/163
+#EXTINF:-1 group-title="FR",ARTE (server 3)
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 group-title="FR",Automoto (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/148
 #EXTINF:-1 group-title="FR",Automoto (server 2)
@@ -1203,10 +1251,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/281600
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/161
 #EXTINF:-1 group-title="FR",C8 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/161
+#EXTINF:-1 group-title="FR",C8 (server 3)
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8
 #EXTINF:-1 group-title="FR",Canal Alpha Jura (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/298475
 #EXTINF:-1 group-title="FR",Canal Alpha Jura (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298475
+#EXTINF:-1 group-title="FR",Canal Alpha Jura (server 3)
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="FR",Canal D (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/486
 #EXTINF:-1 group-title="FR",Canal D (server 2)
@@ -1259,6 +1311,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1890
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/9296
 #EXTINF:-1 group-title="FR",Canal Savoir (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/9296
+#EXTINF:-1 group-title="FR",Canal Savoir (server 3)
+https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 group-title="FR",CANAL+ (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/170
 #EXTINF:-1 group-title="FR",CANAL+ (server 2)
@@ -1343,10 +1397,20 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/297378
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/210
 #EXTINF:-1 group-title="FR",Cartoon Network (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/210
+#EXTINF:-1 group-title="FR",Cartoon Network (server 3)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 group-title="FR",Cartoon Network (server 4)
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="FR",Cartoonito (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300625
 #EXTINF:-1 group-title="FR",Cartoonito (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300625
+#EXTINF:-1 group-title="FR",Cartoonito (server 3)
+http://europe3.livetv.az/russia/boomerang/playlist.m3u8
+#EXTINF:-1 group-title="FR",Cartoonito (server 4)
+https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 group-title="FR",Cartoonito (server 5)
+http://moobl.ru/hls/Cartoonito.m3u8
 #EXTINF:-1 group-title="FR",Catfish (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286453
 #EXTINF:-1 group-title="FR",Catfish (server 2)
@@ -1359,10 +1423,18 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/165045
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286502
 #EXTINF:-1 group-title="FR",Central TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286502
+#EXTINF:-1 group-title="FR",Central TV (server 3)
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="FR",Central TV (server 4)
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+#EXTINF:-1 group-title="FR",Central TV (server 5)
+https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
 #EXTINF:-1 group-title="FR",CGTN Français (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/301173
 #EXTINF:-1 group-title="FR",CGTN Français (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/301173
+#EXTINF:-1 group-title="FR",CGTN Français (server 3)
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="FR",Chasse & Peche (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/196
 #EXTINF:-1 group-title="FR",Chasse & Peche (server 2)
@@ -1403,6 +1475,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/176
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11018
 #EXTINF:-1 group-title="FR",Clubbing TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11018
+#EXTINF:-1 group-title="FR",Clubbing TV (server 3)
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FR",Comedie+ (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/180
 #EXTINF:-1 group-title="FR",Comedie+ (server 2)
@@ -1411,10 +1485,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/180
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/280292
 #EXTINF:-1 group-title="FR",Comedy Central (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/280292
+#EXTINF:-1 group-title="FR",Comedy Central (server 3)
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="FR",Cribs Maisons De Star (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286444
 #EXTINF:-1 group-title="FR",Cribs Maisons De Star (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286444
+#EXTINF:-1 group-title="FR",Cribs Maisons De Star (server 3)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5043513f-eb20-46fd-8286-9e9ba240e6f9
 #EXTINF:-1 group-title="FR",Crime District (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/6223
 #EXTINF:-1 group-title="FR",Crime District (server 2)
@@ -1475,10 +1553,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286464
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286748
 #EXTINF:-1 group-title="FR",Duck TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286748
+#EXTINF:-1 group-title="FR",Duck TV (server 3)
+https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
 #EXTINF:-1 group-title="FR",E! (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2978
 #EXTINF:-1 group-title="FR",E! (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2978
+#EXTINF:-1 group-title="FR",E! (server 3)
+https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 #EXTINF:-1 group-title="FR",EMCI TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/165033
 #EXTINF:-1 group-title="FR",EMCI TV (server 2)
@@ -1519,6 +1601,12 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1195
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/146555
 #EXTINF:-1 group-title="FR",Fashion TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/146555
+#EXTINF:-1 group-title="FR",Fashion TV (server 3)
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="FR",Fashion TV (server 4)
+https://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 group-title="FR",Fashion TV (server 5)
+https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 group-title="FR",Fashion TV FASHION MAGAZINES (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/163399
 #EXTINF:-1 group-title="FR",Fashion TV FASHION MAGAZINES (server 2)
@@ -1567,6 +1655,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/159
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/298764
 #EXTINF:-1 group-title="FR",Fun Radio (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298764
+#EXTINF:-1 group-title="FR",Fun Radio (server 3)
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FunRadio.m3u8
 #EXTINF:-1 group-title="FR",Game One (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1930
 #EXTINF:-1 group-title="FR",Game One (server 2)
@@ -1575,6 +1665,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1930
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286514
 #EXTINF:-1 group-title="FR",Generations TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286514
+#EXTINF:-1 group-title="FR",Generations TV (server 3)
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 group-title="FR",Golf Channel (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/279613
 #EXTINF:-1 group-title="FR",Golf Channel (server 2)
@@ -1599,6 +1691,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298763
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/216
 #EXTINF:-1 group-title="FR",Gulli (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/216
+#EXTINF:-1 group-title="FR",Gulli (server 3)
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 group-title="FR",Helene & les garcons (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286468
 #EXTINF:-1 group-title="FR",Helene & les garcons (server 2)
@@ -1623,6 +1717,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1190
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286445
 #EXTINF:-1 group-title="FR",Instant Saga (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286445
+#EXTINF:-1 group-title="FR",Instant Saga (server 3)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba501-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11c2399-2d50-4607-be2c-d35d72152bbe
 #EXTINF:-1 group-title="FR",Investigation Discovery (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/4376
 #EXTINF:-1 group-title="FR",Investigation Discovery (server 2)
@@ -1639,6 +1735,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286471
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286446
 #EXTINF:-1 group-title="FR",Juste pour Rire (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286446
+#EXTINF:-1 group-title="FR",Juste pour Rire (server 3)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 #EXTINF:-1 group-title="FR",Kids Series+ (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286472
 #EXTINF:-1 group-title="FR",Kids Series+ (server 2)
@@ -1647,6 +1745,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286472
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/14085
 #EXTINF:-1 group-title="FR",KTO (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/14085
+#EXTINF:-1 group-title="FR",KTO (server 3)
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 group-title="FR",L Equipe (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/147
 #EXTINF:-1 group-title="FR",L Equipe (server 2)
@@ -1675,6 +1775,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/4342
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/284460
 #EXTINF:-1 group-title="FR",LCN (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/284460
+#EXTINF:-1 group-title="FR",LCN (server 3)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 group-title="FR",LCP Assemblee Nationale (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/6258
 #EXTINF:-1 group-title="FR",LCP Assemblee Nationale (server 2)
@@ -1707,6 +1809,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/91819
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/158
 #EXTINF:-1 group-title="FR",M6 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/158
+#EXTINF:-1 group-title="FR",M6 (server 3)
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 group-title="FR",M6 International (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286533
 #EXTINF:-1 group-title="FR",M6 International (server 2)
@@ -1715,6 +1819,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286533
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/224
 #EXTINF:-1 group-title="FR",M6 Music (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/224
+#EXTINF:-1 group-title="FR",M6 Music (server 3)
+http://178.170.47.109/M6MUSIC/index.m3u8
 #EXTINF:-1 group-title="FR",Made (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286517
 #EXTINF:-1 group-title="FR",Made (server 2)
@@ -1743,6 +1849,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/223
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/275294
 #EXTINF:-1 group-title="FR",MDL (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/275294
+#EXTINF:-1 group-title="FR",MDL (server 3)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 group-title="FR",Melody (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/27959
 #EXTINF:-1 group-title="FR",Melody (server 2)
@@ -1763,6 +1871,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298100
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286746
 #EXTINF:-1 group-title="FR",Monaco Info (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286746
+#EXTINF:-1 group-title="FR",Monaco Info (server 3)
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="FR",Motorvision TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/268514
 #EXTINF:-1 group-title="FR",Motorvision TV (server 2)
@@ -1771,6 +1881,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/268514
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/197845
 #EXTINF:-1 group-title="FR",Mouv (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/197845
+#EXTINF:-1 group-title="FR",Mouv (server 3)
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Mouv.m3u8
 #EXTINF:-1 group-title="FR",MS Comedy (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/295264
 #EXTINF:-1 group-title="FR",MS Comedy (server 2)
@@ -1779,6 +1891,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/295264
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300842
 #EXTINF:-1 group-title="FR",MTV 00s (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300842
+#EXTINF:-1 group-title="FR",MTV 00s (server 3)
+http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 group-title="FR",MTV 80s (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300843
 #EXTINF:-1 group-title="FR",MTV 80s (server 2)
@@ -1787,10 +1901,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300843
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/220
 #EXTINF:-1 group-title="FR",MTV France (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/220
+#EXTINF:-1 group-title="FR",MTV France (server 3)
+http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:-1 group-title="FR",MTV Hits France (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/47249
 #EXTINF:-1 group-title="FR",MTV Hits France (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/47249
+#EXTINF:-1 group-title="FR",MTV Hits France (server 3)
+http://178.170.47.109/MTVHITS/index.m3u8
 #EXTINF:-1 group-title="FR",MultiSports 1 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/290572
 #EXTINF:-1 group-title="FR",MultiSports 1 (server 2)
@@ -1871,6 +1989,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/206
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/281435
 #EXTINF:-1 group-title="FR",Notele (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/281435
+#EXTINF:-1 group-title="FR",Notele (server 3)
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 group-title="FR",Novelas TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/27960
 #EXTINF:-1 group-title="FR",Novelas TV (server 2)
@@ -1879,6 +1999,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/27960
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/226
 #EXTINF:-1 group-title="FR",NRJ 12 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/226
+#EXTINF:-1 group-title="FR",NRJ 12 (server 3)
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 group-title="FR",NRJ Hits (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/221
 #EXTINF:-1 group-title="FR",NRJ Hits (server 2)
@@ -1911,6 +2033,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/281599
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286516
 #EXTINF:-1 group-title="FR",P2M TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286516
+#EXTINF:-1 group-title="FR",P2M TV (server 3)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 group-title="FR",Paramount Channel (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1183
 #EXTINF:-1 group-title="FR",Paramount Channel (server 2)
@@ -1923,10 +2047,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/295171
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/868
 #EXTINF:-1 group-title="FR",Paris Premiere (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/868
+#EXTINF:-1 group-title="FR",Paris Premiere (server 3)
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1 group-title="FR",People are Awesome (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286484
 #EXTINF:-1 group-title="FR",People are Awesome (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286484
+#EXTINF:-1 group-title="FR",People are Awesome (server 3)
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FR",Piwi+ (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/4377
 #EXTINF:-1 group-title="FR",Piwi+ (server 2)
@@ -1951,6 +2079,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1202
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/50056
 #EXTINF:-1 group-title="FR",Public Senat (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/50056
+#EXTINF:-1 group-title="FR",Public Senat (server 3)
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/PublicSenat.m3u8
 #EXTINF:-1 group-title="FR",RFM TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/6238
 #EXTINF:-1 group-title="FR",RFM TV (server 2)
@@ -2015,10 +2145,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286487
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/9869
 #EXTINF:-1 group-title="FR",Rouge TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/9869
+#EXTINF:-1 group-title="FR",Rouge TV (server 3)
+https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="FR",RT France (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296211
 #EXTINF:-1 group-title="FR",RT France (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/296211
+#EXTINF:-1 group-title="FR",RT France (server 3)
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 group-title="FR",RTL 9 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1178
 #EXTINF:-1 group-title="FR",RTL 9 (server 2)
@@ -2027,10 +2161,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1178
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/298483
 #EXTINF:-1 group-title="FR",RTS 1 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298483
+#EXTINF:-1 group-title="FR",RTS 1 (server 3)
+https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 group-title="FR",RTS 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/267241
 #EXTINF:-1 group-title="FR",RTS 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/267241
+#EXTINF:-1 group-title="FR",RTS 2 (server 3)
+https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 group-title="FR",Science & Vie TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/199
 #EXTINF:-1 group-title="FR",Science & Vie TV (server 2)
@@ -2047,6 +2185,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1903
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286518
 #EXTINF:-1 group-title="FR",Sofy TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286518
+#EXTINF:-1 group-title="FR",Sofy TV (server 3)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="FR",Sport (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/187484
 #EXTINF:-1 group-title="FR",Sport (server 2)
@@ -2071,6 +2211,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1902
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/28444
 #EXTINF:-1 group-title="FR",Telesud (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/28444
+#EXTINF:-1 group-title="FR",Telesud (server 3)
+https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8
 #EXTINF:-1 group-title="FR",Teletoon +1 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/295274
 #EXTINF:-1 group-title="FR",Teletoon +1 (server 2)
@@ -2095,14 +2237,20 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1898
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/164
 #EXTINF:-1 group-title="FR",TFX (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/164
+#EXTINF:-1 group-title="FR",TFX (server 3)
+http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 group-title="FR",Tiji (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/215
 #EXTINF:-1 group-title="FR",Tiji (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/215
+#EXTINF:-1 group-title="FR",Tiji (server 3)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 group-title="FR",TMC (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/865
 #EXTINF:-1 group-title="FR",TMC (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/865
+#EXTINF:-1 group-title="FR",TMC (server 3)
+http://livetv.ktv.zone/12/play.m3u8
 #EXTINF:-1 group-title="FR",Toonami Movies (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/203
 #EXTINF:-1 group-title="FR",Toonami Movies (server 2)
@@ -2151,6 +2299,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/12001
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/12002
 #EXTINF:-1 group-title="FR",TRACE Sport Stars (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/12002
+#EXTINF:-1 group-title="FR",TRACE Sport Stars (server 3)
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Q6ZILPXDVMWLTQLVUCFZ/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 group-title="FR",TRACE Toca (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/7560
 #EXTINF:-1 group-title="FR",TRACE Toca (server 2)
@@ -2179,18 +2329,26 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/6252
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300844
 #EXTINF:-1 group-title="FR",TV Pitchoun (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300844
+#EXTINF:-1 group-title="FR",TV Pitchoun (server 3)
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
 #EXTINF:-1 group-title="FR",TV5Monde Europe (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/146307
 #EXTINF:-1 group-title="FR",TV5Monde Europe (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/146307
+#EXTINF:-1 group-title="FR",TV5Monde Europe (server 3)
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="FR",TV5Monde France Belgique Suisse Monaco (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/879
 #EXTINF:-1 group-title="FR",TV5Monde France Belgique Suisse Monaco (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/879
+#EXTINF:-1 group-title="FR",TV5Monde France Belgique Suisse Monaco (server 3)
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="FR",TV5Monde Info (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286522
 #EXTINF:-1 group-title="FR",TV5Monde Info (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286522
+#EXTINF:-1 group-title="FR",TV5Monde Info (server 3)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 group-title="FR",TV7 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/15359
 #EXTINF:-1 group-title="FR",TV7 (server 2)
@@ -2199,10 +2357,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/15359
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/275295
 #EXTINF:-1 group-title="FR",TV78 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/275295
+#EXTINF:-1 group-title="FR",TV78 (server 3)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 group-title="FR",TV8 Mont Blanc (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/23464
 #EXTINF:-1 group-title="FR",TV8 Mont Blanc (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/23464
+#EXTINF:-1 group-title="FR",TV8 Mont Blanc (server 3)
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TV8MontBlanc.m3u8
 #EXTINF:-1 group-title="FR",TVR (Bretagne) (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286524
 #EXTINF:-1 group-title="FR",TVR (Bretagne) (server 2)
@@ -2255,6 +2417,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300364
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286528
 #EXTINF:-1 group-title="FR",Wildside TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286528
+#EXTINF:-1 group-title="FR",Wildside TV (server 3)
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FR",WinMax (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300365
 #EXTINF:-1 group-title="FR",WinMax (server 2)
@@ -2271,10 +2435,22 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/95719
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/145961
 #EXTINF:-1 group-title="BE",ATV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/145961
+#EXTINF:-1 group-title="BE",ATV (server 3)
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 group-title="BE",ATV (server 4)
+http://146.59.85.40:89/atv/index.m3u8
+#EXTINF:-1 group-title="BE",ATV (server 5)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 group-title="BE",ATV (server 6)
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BE",ATV (server 7)
+https://live.zendzend.com/streams/29375_107244/playlist.m3u8
 #EXTINF:-1 group-title="BE",Bel RTL (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/145959
 #EXTINF:-1 group-title="BE",Bel RTL (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/145959
+#EXTINF:-1 group-title="BE",Bel RTL (server 3)
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 group-title="BE",Boomerang (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/281683
 #EXTINF:-1 group-title="BE",Boomerang (server 2)
@@ -2347,18 +2523,26 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/46917
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/286015
 #EXTINF:-1 group-title="BE",MNM (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/286015
+#EXTINF:-1 group-title="BE",MNM (server 3)
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 group-title="BE",Nat Geo (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/46907
 #EXTINF:-1 group-title="BE",Nat Geo (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/46907
+#EXTINF:-1 group-title="BE",Nat Geo (server 3)
+http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 group-title="BE",Nat Geo Wild (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/298625
 #EXTINF:-1 group-title="BE",Nat Geo Wild (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298625
+#EXTINF:-1 group-title="BE",Nat Geo Wild (server 3)
+http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
 #EXTINF:-1 group-title="BE",Notele (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/5193
 #EXTINF:-1 group-title="BE",Notele (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/5193
+#EXTINF:-1 group-title="BE",Notele (server 3)
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 group-title="BE",Ouftivi (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/250
 #EXTINF:-1 group-title="BE",Ouftivi (server 2)
@@ -2435,14 +2619,22 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/249
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1946
 #EXTINF:-1 group-title="BE",TVO (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1946
+#EXTINF:-1 group-title="BE",TVO (server 3)
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR=
+#EXTINF:-1 group-title="BE",TVO (server 4)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="BE",VTM (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/840
 #EXTINF:-1 group-title="BE",VTM (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/840
+#EXTINF:-1 group-title="BE",VTM (server 3)
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 group-title="BE",VTM 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/8331
 #EXTINF:-1 group-title="BE",VTM 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/8331
+#EXTINF:-1 group-title="BE",VTM 2 (server 3)
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 group-title="BE",VTM Gold (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/278440
 #EXTINF:-1 group-title="BE",VTM Gold (server 2)
@@ -2455,6 +2647,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/120477
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11305
 #EXTINF:-1 group-title="EG",Aghapy TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11305
+#EXTINF:-1 group-title="EG",Aghapy TV (server 3)
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 group-title="EG",Al Ahly TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/4956
 #EXTINF:-1 group-title="EG",Al Ahly TV (server 2)
@@ -2471,6 +2665,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/284340
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225191
 #EXTINF:-1 group-title="EG",Al Kahera Wal Nas (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/225191
+#EXTINF:-1 group-title="EG",Al Kahera Wal Nas (server 3)
+https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 group-title="EG",Al Kahera Wal Nas 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225192
 #EXTINF:-1 group-title="EG",Al Kahera Wal Nas 2 (server 2)
@@ -2495,10 +2691,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1282
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/266515
 #EXTINF:-1 group-title="EG",Al Nahar TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266515
+#EXTINF:-1 group-title="EG",Al Nahar TV (server 3)
+https://ythls.armelin.one/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
 #EXTINF:-1 group-title="EG",Al Rahma (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225177
 #EXTINF:-1 group-title="EG",Al Rahma (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/225177
+#EXTINF:-1 group-title="EG",Al Rahma (server 3)
+https://ythls.armelin.one/channel/UCY9j0n2-prtlMHUnnLA9dTw.m3u8
 #EXTINF:-1 group-title="EG",Al Saeedah (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/266327
 #EXTINF:-1 group-title="EG",Al Saeedah (server 2)
@@ -2515,6 +2715,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266168
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/265316
 #EXTINF:-1 group-title="EG",Alfath TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/265316
+#EXTINF:-1 group-title="EG",Alfath TV (server 3)
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
 #EXTINF:-1 group-title="EG",Alghad TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/266300
 #EXTINF:-1 group-title="EG",Alghad TV (server 2)
@@ -2551,6 +2753,10 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266159
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1265
 #EXTINF:-1 group-title="EG",CBC (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1265
+#EXTINF:-1 group-title="EG",CBC (server 3)
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EG",CBC (server 4)
+https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 group-title="EG",CBC Drama (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1264
 #EXTINF:-1 group-title="EG",CBC Drama (server 2)
@@ -2559,6 +2765,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1264
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2881
 #EXTINF:-1 group-title="EG",CBC Sofra (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2881
+#EXTINF:-1 group-title="EG",CBC Sofra (server 3)
+https://ythls.armelin.one/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
 #EXTINF:-1 group-title="EG",Christian Youth Channel (CYC) (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/284349
 #EXTINF:-1 group-title="EG",Christian Youth Channel (CYC) (server 2)
@@ -2571,6 +2779,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/225212
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11171
 #EXTINF:-1 group-title="EG",Coptic TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11171
+#EXTINF:-1 group-title="EG",Coptic TV (server 3)
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="EG",DMC (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1263
 #EXTINF:-1 group-title="EG",DMC (server 2)
@@ -2659,6 +2869,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266201
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/284352
 #EXTINF:-1 group-title="EG",Koogi TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/284352
+#EXTINF:-1 group-title="EG",Koogi TV (server 3)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 group-title="EG",Madrasetna 1 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/283160
 #EXTINF:-1 group-title="EG",Madrasetna 1 (server 2)
@@ -2695,6 +2907,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/264535
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/4958
 #EXTINF:-1 group-title="EG",Mekameleen TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/4958
+#EXTINF:-1 group-title="EG",Mekameleen TV (server 3)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="EG",Misr Al Zeraya (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/266150
 #EXTINF:-1 group-title="EG",Misr Al Zeraya (server 2)
@@ -2791,10 +3005,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300997
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/270694
 #EXTINF:-1 group-title="EG",Rotana Cinema Egypt (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/270694
+#EXTINF:-1 group-title="EG",Rotana Cinema Egypt (server 3)
+https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 group-title="EG",Rotana Classic (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300323
 #EXTINF:-1 group-title="EG",Rotana Classic (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/300323
+#EXTINF:-1 group-title="EG",Rotana Classic (server 3)
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 group-title="EG",Sada Elbalad (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/245627
 #EXTINF:-1 group-title="EG",Sada Elbalad (server 2)
@@ -2827,10 +3045,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266143
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225213
 #EXTINF:-1 group-title="EG",The Kingdom Sat (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/225213
+#EXTINF:-1 group-title="EG",The Kingdom Sat (server 3)
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="EG",Watan TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/265120
 #EXTINF:-1 group-title="EG",Watan TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/265120
+#EXTINF:-1 group-title="EG",Watan TV (server 3)
+https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
 #EXTINF:-1 group-title="EG",Zamalek TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/245474
 #EXTINF:-1 group-title="EG",Zamalek TV (server 2)
@@ -2839,34 +3061,50 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/245474
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11241
 #EXTINF:-1 group-title="BHR",Bahrain International (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11241
+#EXTINF:-1 group-title="BHR",Bahrain International (server 3)
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 group-title="BHR",Bahrain Quran (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/266306
 #EXTINF:-1 group-title="BHR",Bahrain Quran (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266306
+#EXTINF:-1 group-title="BHR",Bahrain Quran (server 3)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 group-title="BHR",Bahrain Sports 1 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/121097
 #EXTINF:-1 group-title="BHR",Bahrain Sports 1 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/121097
+#EXTINF:-1 group-title="BHR",Bahrain Sports 1 (server 3)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="BHR",Bahrain Sports 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/145860
 #EXTINF:-1 group-title="BHR",Bahrain Sports 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/145860
+#EXTINF:-1 group-title="BHR",Bahrain Sports 2 (server 3)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 group-title="BHR",Bahrain TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/295480
 #EXTINF:-1 group-title="BHR",Bahrain TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/295480
+#EXTINF:-1 group-title="BHR",Bahrain TV (server 3)
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 group-title="BHR",Bloomberg TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/285988
 #EXTINF:-1 group-title="BHR",Bloomberg TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/285988
+#EXTINF:-1 group-title="BHR",Bloomberg TV (server 3)
+https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="AE",Abu Dhabi Sports 1 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1296
 #EXTINF:-1 group-title="AE",Abu Dhabi Sports 1 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1296
+#EXTINF:-1 group-title="AE",Abu Dhabi Sports 1 (server 3)
+https://sc2022.stream-link.org/tv2306.php?id=s05
 #EXTINF:-1 group-title="AE",Abu Dhabi Sports 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1295
 #EXTINF:-1 group-title="AE",Abu Dhabi Sports 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1295
+#EXTINF:-1 group-title="AE",Abu Dhabi Sports 2 (server 3)
+https://sc2022.stream-link.org/tv2306.php?id=s06
 #EXTINF:-1 group-title="AE",Abu Dhabi Sports Premium 1 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296836
 #EXTINF:-1 group-title="AE",Abu Dhabi Sports Premium 1 (server 2)
@@ -2883,10 +3121,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1294
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11250
 #EXTINF:-1 group-title="AE",Ajman TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11250
+#EXTINF:-1 group-title="AE",Ajman TV (server 3)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/index.m3u8
 #EXTINF:-1 group-title="AE",Al Aan TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/15969
 #EXTINF:-1 group-title="AE",Al Aan TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/15969
+#EXTINF:-1 group-title="AE",Al Aan TV (server 3)
+https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
 #EXTINF:-1 group-title="AE",Al Dafrah TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/217282
 #EXTINF:-1 group-title="AE",Al Dafrah TV (server 2)
@@ -2903,6 +3145,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/283311
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/275955
 #EXTINF:-1 group-title="AE",Al Wousta TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/275955
+#EXTINF:-1 group-title="AE",Al Wousta TV (server 3)
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Al Yawm (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/43925
 #EXTINF:-1 group-title="AE",Al Yawm (server 2)
@@ -2923,6 +3167,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/268988
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/43878
 #EXTINF:-1 group-title="AE",AMC (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/43878
+#EXTINF:-1 group-title="AE",AMC (server 3)
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="AE",ANIMAL PLANET (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/7693
 #EXTINF:-1 group-title="AE",ANIMAL PLANET (server 2)
@@ -2931,6 +3177,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/7693
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/284311
 #EXTINF:-1 group-title="AE",Asharq News (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/284311
+#EXTINF:-1 group-title="AE",Asharq News (server 3)
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="AE",B4U Aflam (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3782
 #EXTINF:-1 group-title="AE",B4U Aflam (server 2)
@@ -2951,6 +3199,10 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/283284
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/285989
 #EXTINF:-1 group-title="AE",Cartoon Network (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/285989
+#EXTINF:-1 group-title="AE",Cartoon Network (server 3)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 group-title="AE",Cartoon Network (server 4)
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
 #EXTINF:-1 group-title="AE",China Arab TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/300665
 #EXTINF:-1 group-title="AE",China Arab TV (server 2)
@@ -2967,6 +3219,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2877
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/165463
 #EXTINF:-1 group-title="AE",Citruss TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/165463
+#EXTINF:-1 group-title="AE",Citruss TV (server 3)
+https://d7km4gkevcbok.cloudfront.net/live/watch_720p30.m3u8
 #EXTINF:-1 group-title="AE",Discovery Science (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3703
 #EXTINF:-1 group-title="AE",Discovery Science (server 2)
@@ -2983,18 +3237,26 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2843
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1258
 #EXTINF:-1 group-title="AE",Dubai One (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1258
+#EXTINF:-1 group-title="AE",Dubai One (server 3)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Dubai Racing (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3730
 #EXTINF:-1 group-title="AE",Dubai Racing (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/3730
+#EXTINF:-1 group-title="AE",Dubai Racing (server 3)
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Dubai Racing 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/19855
 #EXTINF:-1 group-title="AE",Dubai Racing 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/19855
+#EXTINF:-1 group-title="AE",Dubai Racing 2 (server 3)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Dubai Racing 3 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/21999
 #EXTINF:-1 group-title="AE",Dubai Racing 3 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/21999
+#EXTINF:-1 group-title="AE",Dubai Racing 3 (server 3)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Dubai Sports (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/22058
 #EXTINF:-1 group-title="AE",Dubai Sports (server 2)
@@ -3003,22 +3265,32 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/22058
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/43778
 #EXTINF:-1 group-title="AE",Dubai Sports 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/43778
+#EXTINF:-1 group-title="AE",Dubai Sports 2 (server 3)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="AE",Dubai Sports 3 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/21998
 #EXTINF:-1 group-title="AE",Dubai Sports 3 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/21998
+#EXTINF:-1 group-title="AE",Dubai Sports 3 (server 3)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 group-title="AE",Dubai TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1261
 #EXTINF:-1 group-title="AE",Dubai TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1261
+#EXTINF:-1 group-title="AE",Dubai TV (server 3)
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Dubai Zaman (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1260
 #EXTINF:-1 group-title="AE",Dubai Zaman (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1260
+#EXTINF:-1 group-title="AE",Dubai Zaman (server 3)
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",E! (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/13836
 #EXTINF:-1 group-title="AE",E! (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/13836
+#EXTINF:-1 group-title="AE",E! (server 3)
+https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 #EXTINF:-1 group-title="AE",Emarat TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/4923
 #EXTINF:-1 group-title="AE",Emarat TV (server 2)
@@ -3047,6 +3319,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2831
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2612
 #EXTINF:-1 group-title="AE",Fox Life (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2612
+#EXTINF:-1 group-title="AE",Fox Life (server 3)
+http://moobl.ru/hls/Fox_Life.m3u8
 #EXTINF:-1 group-title="AE",FXM (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/291194
 #EXTINF:-1 group-title="AE",FXM (server 2)
@@ -3079,6 +3353,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/4973
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1248
 #EXTINF:-1 group-title="AE",MBC (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1248
+#EXTINF:-1 group-title="AE",MBC (server 3)
+http://41.216.229.205:8080/live/livestream/index.m3u8
 #EXTINF:-1 group-title="AE",MBC 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1247
 #EXTINF:-1 group-title="AE",MBC 2 (server 2)
@@ -3091,10 +3367,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1246
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1245
 #EXTINF:-1 group-title="AE",MBC 4 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1245
+#EXTINF:-1 group-title="AE",MBC 4 (server 3)
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 group-title="AE",MBC 5 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/33044
 #EXTINF:-1 group-title="AE",MBC 5 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/33044
+#EXTINF:-1 group-title="AE",MBC 5 (server 3)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 group-title="AE",MBC Action (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1244
 #EXTINF:-1 group-title="AE",MBC Action (server 2)
@@ -3103,10 +3383,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1244
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1243
 #EXTINF:-1 group-title="AE",MBC Bollywood (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1243
+#EXTINF:-1 group-title="AE",MBC Bollywood (server 3)
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="AE",MBC Drama (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1242
 #EXTINF:-1 group-title="AE",MBC Drama (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1242
+#EXTINF:-1 group-title="AE",MBC Drama (server 3)
+http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 group-title="AE",MBC Drama+ (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/3689
 #EXTINF:-1 group-title="AE",MBC Drama+ (server 2)
@@ -3115,6 +3399,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/3689
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/283292
 #EXTINF:-1 group-title="AE",MBC FM (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/283292
+#EXTINF:-1 group-title="AE",MBC FM (server 3)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 group-title="AE",MBC Maser (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1238
 #EXTINF:-1 group-title="AE",MBC Maser (server 2)
@@ -3159,6 +3445,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/3704
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1259
 #EXTINF:-1 group-title="AE",Noor Dubai (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1259
+#EXTINF:-1 group-title="AE",Noor Dubai (server 3)
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",OSN Action (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2860
 #EXTINF:-1 group-title="AE",OSN Action (server 2)
@@ -3295,6 +3583,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/54573
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/197797
 #EXTINF:-1 group-title="AE",Panorama FM (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/197797
+#EXTINF:-1 group-title="AE",Panorama FM (server 3)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 group-title="AE",RBC TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/283131
 #EXTINF:-1 group-title="AE",RBC TV (server 2)
@@ -3311,18 +3601,26 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/298486
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1217
 #EXTINF:-1 group-title="AE",Sama Dubai (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1217
+#EXTINF:-1 group-title="AE",Sama Dubai (server 3)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Sharjah 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/275956
 #EXTINF:-1 group-title="AE",Sharjah 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/275956
+#EXTINF:-1 group-title="AE",Sharjah 2 (server 3)
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Sharjah Sports TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2938
 #EXTINF:-1 group-title="AE",Sharjah Sports TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/2938
+#EXTINF:-1 group-title="AE",Sharjah Sports TV (server 3)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Sharjah TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/217291
 #EXTINF:-1 group-title="AE",Sharjah TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/217291
+#EXTINF:-1 group-title="AE",Sharjah TV (server 3)
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Sharqiya TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/152440
 #EXTINF:-1 group-title="AE",Sharqiya TV (server 2)
@@ -3331,6 +3629,10 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/152440
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/75893
 #EXTINF:-1 group-title="AE",Sky News Arabia (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/75893
+#EXTINF:-1 group-title="AE",Sky News Arabia (server 3)
+https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
+#EXTINF:-1 group-title="AE",Sky News Arabia (server 4)
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 group-title="AE",Space Toon (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1214
 #EXTINF:-1 group-title="AE",Space Toon (server 2)
@@ -3363,14 +3665,20 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/7658
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11210
 #EXTINF:-1 group-title="AE",Wanasah (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11210
+#EXTINF:-1 group-title="AE",Wanasah (server 3)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="AE",Yas TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/22009
 #EXTINF:-1 group-title="AE",Yas TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/22009
+#EXTINF:-1 group-title="AE",Yas TV (server 3)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="AE",Zee Alwan (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1207
 #EXTINF:-1 group-title="AE",Zee Alwan (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1207
+#EXTINF:-1 group-title="AE",Zee Alwan (server 3)
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="DZ",AL 24 News (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296523
 #EXTINF:-1 group-title="DZ",AL 24 News (server 2)
@@ -3431,10 +3739,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/284337
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11273
 #EXTINF:-1 group-title="DZ",Echorouk News (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11273
+#EXTINF:-1 group-title="DZ",Echorouk News (server 3)
+https://bledflix-echorouk-news.b-cdn.net/master.m3u8
 #EXTINF:-1 group-title="DZ",Echorouk TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225145
 #EXTINF:-1 group-title="DZ",Echorouk TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/225145
+#EXTINF:-1 group-title="DZ",Echorouk TV (server 3)
+#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
 #EXTINF:-1 group-title="DZ",El Bilad TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11343
 #EXTINF:-1 group-title="DZ",El Bilad TV (server 2)
@@ -3467,6 +3779,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11294
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11179
 #EXTINF:-1 group-title="DZ",Samira TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11179
+#EXTINF:-1 group-title="DZ",Samira TV (server 3)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
 #EXTINF:-1 group-title="DZ",Zahra TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296533
 #EXTINF:-1 group-title="DZ",Zahra TV (server 2)
@@ -3475,6 +3789,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/296533
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11261
 #EXTINF:-1 group-title="MA",2M Monde (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11261
+#EXTINF:-1 group-title="MA",2M Monde (server 3)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 group-title="MA",Aflam TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/226057
 #EXTINF:-1 group-title="MA",Aflam TV (server 2)
@@ -3487,6 +3803,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1292
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1285
 #EXTINF:-1 group-title="MA",Al Maghribia (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1285
+#EXTINF:-1 group-title="MA",Al Maghribia (server 3)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
 #EXTINF:-1 group-title="MA",Al Ons TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11163
 #EXTINF:-1 group-title="MA",Al Ons TV (server 2)
@@ -3495,10 +3813,14 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11163
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11173
 #EXTINF:-1 group-title="MA",Arryadia (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11173
+#EXTINF:-1 group-title="MA",Arryadia (server 3)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
 #EXTINF:-1 group-title="MA",Assadissa (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1274
 #EXTINF:-1 group-title="MA",Assadissa (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1274
+#EXTINF:-1 group-title="MA",Assadissa (server 3)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
 #EXTINF:-1 group-title="MA",Athaqafia (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/268950
 #EXTINF:-1 group-title="MA",Athaqafia (server 2)
@@ -3507,6 +3829,8 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/268950
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/18246
 #EXTINF:-1 group-title="MA",Chada TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/18246
+#EXTINF:-1 group-title="MA",Chada TV (server 3)
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 group-title="MA",El Medina TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/296537
 #EXTINF:-1 group-title="MA",El Medina TV (server 2)
@@ -3519,22 +3843,32 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/296534
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/165430
 #EXTINF:-1 group-title="MA",M24 TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/165430
+#EXTINF:-1 group-title="MA",M24 TV (server 3)
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
 #EXTINF:-1 group-title="MA",Medi 1 TV Afrique (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/269424
 #EXTINF:-1 group-title="MA",Medi 1 TV Afrique (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/269424
+#EXTINF:-1 group-title="MA",Medi 1 TV Afrique (server 3)
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 group-title="MA",Medi 1 TV Arabic (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1237
 #EXTINF:-1 group-title="MA",Medi 1 TV Arabic (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1237
+#EXTINF:-1 group-title="MA",Medi 1 TV Arabic (server 3)
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 group-title="MA",Medi 1 TV Maghreb (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/269458
 #EXTINF:-1 group-title="MA",Medi 1 TV Maghreb (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/269458
+#EXTINF:-1 group-title="MA",Medi 1 TV Maghreb (server 3)
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="MA",Tamazight (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1213
 #EXTINF:-1 group-title="MA",Tamazight (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1213
+#EXTINF:-1 group-title="MA",Tamazight (server 3)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
 #EXTINF:-1 group-title="MA",Tele Maroc (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225140
 #EXTINF:-1 group-title="MA",Tele Maroc (server 2)
@@ -3575,10 +3909,22 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/245630
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/4960
 #EXTINF:-1 group-title="KW",Alrai TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/4960
+#EXTINF:-1 group-title="KW",Alrai TV (server 3)
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="KW",ATV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/245631
 #EXTINF:-1 group-title="KW",ATV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/245631
+#EXTINF:-1 group-title="KW",ATV (server 3)
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 group-title="KW",ATV (server 4)
+http://146.59.85.40:89/atv/index.m3u8
+#EXTINF:-1 group-title="KW",ATV (server 5)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 group-title="KW",ATV (server 6)
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KW",ATV (server 7)
+https://live.zendzend.com/streams/29375_107244/playlist.m3u8
 #EXTINF:-1 group-title="KW",Funoon TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/2928
 #EXTINF:-1 group-title="KW",Funoon TV (server 2)
@@ -3623,6 +3969,10 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/266532
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/245629
 #EXTINF:-1 group-title="KW",Marina TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/245629
+#EXTINF:-1 group-title="KW",Marina TV (server 3)
+https://ythls.armelin.one/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
+#EXTINF:-1 group-title="KW",Marina TV (server 4)
+https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamd/manifest.m3u8
 #EXTINF:-1 group-title="TN",Al Insen TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/225155
 #EXTINF:-1 group-title="TN",Al Insen TV (server 2)
@@ -3651,14 +4001,20 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1253
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/278644
 #EXTINF:-1 group-title="TN",Jawhara FM (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/278644
+#EXTINF:-1 group-title="TN",Jawhara FM (server 3)
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TN",Nessma (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1235
 #EXTINF:-1 group-title="TN",Nessma (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1235
+#EXTINF:-1 group-title="TN",Nessma (server 3)
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:-1 group-title="TN",Sahel TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/146234
 #EXTINF:-1 group-title="TN",Sahel TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/146234
+#EXTINF:-1 group-title="TN",Sahel TV (server 3)
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="TN",Telvza TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11877
 #EXTINF:-1 group-title="TN",Telvza TV (server 2)
@@ -3675,11 +4031,17 @@ http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11172
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1210
 #EXTINF:-1 group-title="TN",Watania 1 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1210
+#EXTINF:-1 group-title="TN",Watania 1 (server 3)
+https://ythls.armelin.one/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 #EXTINF:-1 group-title="TN",Watania 2 (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/1209
 #EXTINF:-1 group-title="TN",Watania 2 (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/1209
+#EXTINF:-1 group-title="TN",Watania 2 (server 3)
+https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
 #EXTINF:-1 group-title="TN",Zitouna TV (server 1)
 http://iptvtree.net:8080/bigboss2023/rC7yx19nguAbkJ94H7Y2/11359
 #EXTINF:-1 group-title="TN",Zitouna TV (server 2)
 http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/11359
+#EXTINF:-1 group-title="TN",Zitouna TV (server 3)
+https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
